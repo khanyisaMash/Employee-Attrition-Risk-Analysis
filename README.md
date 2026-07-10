@@ -16,7 +16,7 @@ The findings show that: **new hires (under 2 years tenure) working overtime are 
 **Recommended action:**
 Implement targeted overtime reduction measures and enhanced onboarding programs for new hires with up to 2 years tenure within the three high-turnover roles. 
 
-*(Note: a fourth role, Sales Representative, showed an even higher rate — 80% — but on a sample of only 10 employees, too small to report as a reliable finding. It's worth monitoring, not acting on yet.)*
+*(Note: a fourth role, Sales Representative, showed an even higher rate - 80% - but on a sample of only 10 employees, too small to report as a reliable finding. It's worth monitoring, not acting on yet.)*
 
 ## Key Findings
 
