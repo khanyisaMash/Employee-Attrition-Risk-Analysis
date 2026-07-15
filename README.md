@@ -26,11 +26,12 @@ The findings show that: **employees working overtime in the lowest salary quarti
 | Highest-risk roles within new-hire + overtime group | Laboratory Technician, Sales Executive, Research Scientist |
 
 
-
 ### 4. Reporting (Power BI)
-- Two-page interactive dashboard:
-  - **Page 1 — Overview:** KPI cards (headcount, attrition count, attrition rate) and four driver comparison charts (Overtime, Salary Band, Job Satisfaction, and Tenure Group)
-  - **Page 2 — Segments:** heatmap matrix showing the compounding risk of Overtime × Tenure Group, with a reliability flag distinguishing statistically trustworthy cells from thin, low-sample ones
+- Two-page report:
+  - **Page 1 — Overview:** KPI cards (headcount, attrition count, attrition rate) and four driver charts (Overtime, Salary Band, Job Satisfaction, and Tenure Group)
+  - **Page 2 — Segments:** heatmap matrix, Overtime × Salary Band  and Overtime × Tenure Group, with a red text fill to flag at risk groups
+             -chart showing at rest job roles for new hires.
+
 
 ## Repository Structure
 ```
