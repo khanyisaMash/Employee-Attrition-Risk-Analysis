@@ -5,32 +5,25 @@ A data analytics project identifying where risk of employees leaving is heavily 
 
 ## Use Case: To reduce the number of employees leaving, what actions should be taken by HR?**
 
-The findings show that: **new hires (under 2 years tenure) working overtime are leaving at roughly 3x the company average and within that tenure group, three job roles carry the highest risk:**
+The findings show that: **employees working overtime in the lowest salary quartile leave at 58.5%, 3.6x the company average and new hires (under 2 years tenure) working overtime are leaving at roughly 3x the company average and within that tenure group, three job roles carry the highest risk:**
 
 1. **Laboratory Technician** - 64.3% attrition rate among new hires working overtime
 2. **Sales Executive** - 62.5% attrition rate among new hires working overtime
 3. **Research Scientist** - 48.3% attrition rate among new hires working overtime
 
-**Recommended action:**
-Implement targeted overtime reduction measures and enhanced onboarding programs for new hires with up to 2 years tenure within the three high-turnover roles. 
+**Recommended action:** review overtime policy and compensation for employees working overtime in the lowest salary quartile, and extend that review to new hires in the three roles above.
 
-*(Note: a fourth role, Sales Representative, showed an even higher rate - 80% - but on a sample of only 10 employees, too small to report as a reliable finding. It's worth monitoring, not acting on yet.)*
+*(A fourth job role, Sales Representative, showed 80% attrition but on a sample of only 10 — too small to act on, worth monitoring only.)*
 
 ## Key Findings
 
 | Finding | Result |
 |---|---|
 | Overall attrition rate | 16.1% |
-| Attrition rate (overtime workers) | 30.5% (vs. 10.4% for non-overtime) |
-| Attrition rate (new hires (0-2 yrs) working overtime) | 51.0% |
-| Highest-risk job roles within that group | Laboratory Technician, Sales Executive, Research Scientist |
-
-
-
-
-
-
-
+| Overtime workers | 30.5% (vs. 10.4% non-overtime) |
+| Overtime + lowest salary quartile (top validated segment) | 58.5% — 3.6* baseline |
+| New hires (0-2 yrs) + overtime | 51.0% — ~3* baseline |
+| Highest-risk roles within new-hire + overtime group | Laboratory Technician, Sales Executive, Research Scientist |
 
 
 
