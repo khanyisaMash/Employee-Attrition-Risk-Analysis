@@ -26,6 +26,23 @@ The findings show that: **employees working overtime in the lowest salary quarti
 | Highest-risk roles within new-hire + overtime group | Laboratory Technician, Sales Executive, Research Scientist |
 
 
+## How We Got There: Methodology
+
+### 1. Data Cleaning (Python)
+- Removed 3 constant/ID columns carrying no analytical value
+- Confirmed zero missing values, no duplicate records
+
+### 2. Data Modeling (Python → Power BI star schema)
+- Built dimension tables for Tenure Group and Salary Band, using domain-informed binning (tighter bands at the early-tenure risk window; quartile-based banding for income)
+- Validated that binned variables preserved the predictive signal of their raw source columns
+
+### 3. Statistical Validation (Python)
+- Tested normality (Shapiro-Wilk) before choosing correlation methods; cross-validated with Pearson, Spearman, and Mann-Whitney U
+- Identified and resolved multicollinearity: a "seniority cluster" (Age, Tenure, Job Level, Income — Spearman r up to 0.92, VIF up to 11.2) and a "role cluster" (Department, Job Role, Education Field — Cramér's V up to 0.94) were each reduced to one representative variable
+- Filtered on significance AND effect size, excluding variables significant only due to sample size
+- Systematically tested all 28 pairwise combinations of validated predictors (Chi-Square + Cramér's V, effect size > 0.20, assumption-checked) — this is what surfaced Overtime × Salary Band as the top segment. Extended to all 56 possible 3-variable combinations; none passed both effect-size and assumption checks, confirming 2-way segments are the reliable limit for this dataset
+
+
 ### 4. Reporting (Power BI)
 - Two-page report:
   - **Page 1 — Overview:** KPI cards (headcount, attrition count, attrition rate) and four driver charts (Overtime, Salary Band, Job Satisfaction, and Tenure Group)
