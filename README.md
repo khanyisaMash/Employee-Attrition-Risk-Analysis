@@ -27,4 +27,32 @@ Implement targeted overtime reduction measures and enhanced onboarding programs 
 | Attrition rate (new hires (0-2 yrs) working overtime) | 51.0% |
 | Highest-risk job roles within that group | Laboratory Technician, Sales Executive, Research Scientist |
 
+
+
+
+
+
+
+
+
+
+### 4. Reporting (Power BI)
+- Two-page interactive dashboard:
+  - **Page 1 — Overview:** KPI cards (headcount, attrition count, attrition rate) and four driver comparison charts (Overtime, Salary Band, Job Satisfaction, and Tenure Group)
+  - **Page 2 — Segments:** heatmap matrix showing the compounding risk of Overtime × Tenure Group, with a reliability flag distinguishing statistically trustworthy cells from thin, low-sample ones
+
+## Repository Structure
+```
+data/           Cleaned fact table and dimension tables (CSV)
+scripts/        Python data cleaning and dimension-modeling pipeline
+dashboard/      Power BI report file (.pbix) and screenshots
+docs/           Written business recommendations (Word doc)
+```
+
+## Tools Used
+Python (pandas, scipy, scikit-learn), Power BI (Power Query, DAX, star-schema modeling)
+
+## Data Source
+[IBM HR Analytics Employee Attrition & Performance dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) (Kaggle)
+
 ## How We Got There: Methodology
