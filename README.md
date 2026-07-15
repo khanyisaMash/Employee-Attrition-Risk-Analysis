@@ -1,11 +1,9 @@
 
-# Employee Attrition Risk Analysis
+# Employees Leaving Risk Analysis
 
-A data analytics project identifying where employee attrition risk concentrates most heavily, using Python for statistical validation and Power BI for interactive reporting.
+A data analytics project identifying where risk of employees leaving is heavily concentrated, using Python for statistical validation and Power BI for interactive reporting.
 
-## Use Case: Where Should HR Focus Its Attention?
-
-This analysis answers the question: **to reduce attrition, what actions should be taken by HR?**
+## Use Case: To reduce the number of employees leaving, what actions should be taken by HR?**
 
 The findings show that: **new hires (under 2 years tenure) working overtime are leaving at roughly 3x the company average and within that tenure group, three job roles carry the highest risk:**
 
