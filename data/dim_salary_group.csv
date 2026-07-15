@@ -1,0 +1,5 @@
+SalaryBandID,SalaryBand,SortOrder,RangeLow,RangeHigh
+1,Q1 - Lower,1,1009,2911
+2,Q2 - Lower-Middle,2,2911,4919
+3,Q3 - Upper-Middle,3,4919,8379
+4,Q4 - Upper,4,8379,19999
