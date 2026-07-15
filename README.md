@@ -63,5 +63,3 @@ Python (pandas, scipy, scikit-learn), Power BI (Power Query, DAX, star-schema mo
 
 ## Data Source
 [IBM HR Analytics Employee Attrition & Performance dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) (Kaggle)
-
-## How We Got There: Methodology
