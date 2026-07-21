@@ -1,15 +1,15 @@
 
 # Employees Leaving Risk Analysis
 
-A data analytics project identifying where risk of employees leaving is heavily concentrated, using Python for statistical validation and Power BI for interactive reporting.
+This is a data analytics project identifying where risk of employees leaving is heavily concentrated, using Python for statistical validation and Power BI for interactive reporting.
 
 ## Use Case: To reduce the number of employees leaving, what actions should be taken by HR?
 
-The findings show that: **employees working overtime in the lowest salary quartile leave at 58.5%, 3.6x the company average and new hires (under 2 years tenure) working overtime are leaving at roughly 3x the company average and within that tenure group, three job roles carry the highest risk:**
+The findings show that: **employees working overtime in the lowest salary quartile leave at 58.5%, 3.6x the company average and new hires (under 2 years) working overtime are leaving at roughly 3x the company average and within that tenure group, three job roles carry the highest risk:**
 
-1. **Laboratory Technician** - 64.3% attrition rate among new hires working overtime
-2. **Sales Executive** - 62.5% attrition rate among new hires working overtime
-3. **Research Scientist** - 48.3% attrition rate among new hires working overtime
+1. **Sales Representative** - 80% leaving rate rate among new hires working overtime
+2. **Laboratory Technician** - 64.3% attrition rate among new hires working overtime
+3. **Sales Executive** - 62.5% attrition rate among new hires working overtime
 
 **Recommended action:** review overtime policy and compensation for employees working overtime in the lowest salary quartile, and extend that review to new hires in the three roles above.
 
