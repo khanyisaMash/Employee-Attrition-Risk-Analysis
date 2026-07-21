@@ -11,9 +11,7 @@ The findings show that: **employees working overtime in the lowest salary quarti
 2. **Laboratory Technician** - 64.3% attrition rate among new hires working overtime
 3. **Sales Executive** - 62.5% attrition rate among new hires working overtime
 
-**Recommended action:** review overtime policy and compensation for employees working overtime in the lowest salary quartile, and extend that review to new hires in the three roles above.
-
-*(A fourth job role, Sales Representative, showed 80% attrition but on a sample of only 10 — too small to act on, worth monitoring only.)*
+**Recommended action:** reduce mandatory overtime hours for employees in the lowest salary quartile, and pair this with a targeted compensation adjustment for that group. Extend the same overtime reduction to new hires in Laboratory Technician, Sales Executive, and Research Scientist roles specifically.
 
 ## Key Findings
 
