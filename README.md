@@ -44,8 +44,8 @@ The findings show that: **employees working overtime in the lowest salary quarti
 ### 4. Reporting (Power BI)
 - Two-page report:
   - **Page 1 — Overview:** KPI cards (headcount, attrition count, attrition rate) and four driver charts (Overtime, Salary Band, Job Satisfaction, and Tenure Group)
-  - **Page 2 — Segments:** heatmap matrix, Overtime × Salary Band  and Overtime × Tenure Group, with a red text fill to flag at risk groups
-             -chart showing at rest job roles for new hires.
+  - **Page 2 - Segments:** heatmap matrix, Overtime × Salary Band  and Overtime × Tenure Group, with a red text fill to flag at risk groups
+            **-** chart showing leaving rate for new hires by job roles.
 
 
 ## Repository Structure
