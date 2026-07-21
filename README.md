@@ -21,7 +21,7 @@ The findings show that: **employees working overtime in the lowest salary quarti
 | Overtime workers | 30.5% (vs. 10.4% non-overtime) |
 | Overtime + lowest salary quartile (top validated segment) | 58.5% — 3.6* baseline |
 | New hires (0-2 yrs) + overtime | 51.0% — ~3* baseline |
-| Highest-risk roles within new-hire + overtime group | Sales Representative, Laboratory Technician, Sales Executive |
+| Highest-risk roles within new-hire + overtime group | Sales Representative, Laboratory Technician, and Sales Executive |
 
 
 ## How We Got There: Methodology
